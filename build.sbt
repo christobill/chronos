@@ -2,7 +2,7 @@ name := "chronos"
 
 organization := "org.apache.mesos"
 
-version := "2.5.0-SNAPSHOT"
+version := "3.0.0-SNAPSHOT"
 
 scalaVersion := "2.11.8"
 
